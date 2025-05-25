@@ -111,3 +111,10 @@ The most important features for prediction were:
 - Incorporate additional feature engineering
 - Implement hyperparameter tuning for all models
 - Explore attention mechanisms for the RNN
+## 👋 About Me
+
+I'm a machine learning enthusiast with hands-on experience in AI models like ANN, RNN, and stacking. 
+
+🔍 Looking for freelance or paid AI projects.
+
+📧 Reach me at: husnabsmaths@gmail.com 
